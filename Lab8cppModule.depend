@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608726958 source:e:\luda\desktop\лабы по оп\lab8cppmodule\main.cpp
+	<iostream>
+	<iomanip>
+	"myMatrixes.h"
+
+1608726921 e:\luda\desktop\лабы по оп\lab8cppmodule\mymatrixes.h
+
+1608726921 source:e:\luda\desktop\лабы по оп\lab8cppmodule\mymatrixes.cpp
+	<iostream>
+	<iomanip>
+
